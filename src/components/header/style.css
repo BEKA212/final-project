@@ -1,0 +1,28 @@
+.header{
+    background: url("../../../assets/icons/image 58.svg");
+    display: flex;
+    padding-left: 70px;
+    padding-top: 10px;
+}
+
+.icon{
+    width: 181px;
+    height: 25px;
+}
+
+.header-text{
+    display: flex;
+    padding-left: 170px;
+}
+
+.about-me{
+    padding-right: 50px;
+}
+
+.mb{
+    padding-right: 50px;
+}
+
+.articles{
+    padding-right: 50px;
+}
